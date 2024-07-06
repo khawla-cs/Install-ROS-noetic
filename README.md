@@ -1,4 +1,4 @@
-# VirtalBox and Noetic Ubuntu-20.04 installation
+# ROS-Noetic-Ubuntu-20.04
 
 ## Step1: Install VirtualBox ( we will use it to run Ubuntu 20.04 later)
 go to the link Below
@@ -109,10 +109,17 @@ then choose the Ubuntu ISO file that you installed in Step 2
 ![Screenshot 2024-07-06 051843](https://github.com/khawla-cs/Install-ROS-noetic/assets/173630971/3f66606f-c6b1-438c-90bc-78a5464a90c4)
 
 
-## Finally
+## Finally :
 Ubuntu is READY, you can use it as you wish now! Enjoy
 
+## ROS Noetic Installation
+1- open terminal 
 
+2- follow the instructions here https://wiki.ros.org/noetic/Installation/Ubuntu#Installation-1 (copy and paste)
+
+If you get some errors while working, this website "ask Ubuntu" may help you https://askubuntu.com/ 
+
+  ## Done
 
 
 
