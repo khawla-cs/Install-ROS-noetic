@@ -15,7 +15,8 @@ Complete the download like any other software..
 from the this link
 Ubuntu: [https://ubuntu.com/download](https://releases.ubuntu.com/20.04/)
 
-Click (Download Ubuntu Desktop)
+Click (Desktop image)
+
 
 <img width="466" alt="image" src="https://github.com/khawla-cs/Install-ROS-noetic/assets/173630971/d48adac1-625f-4bd5-b739-7895873c9656">
 
