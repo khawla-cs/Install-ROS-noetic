@@ -13,7 +13,7 @@ Complete the download like any other software..
 
 ## step 2 : download Ubuntu 20.04
 from the this link
-Ubuntu: https://ubuntu.com/download
+Ubuntu: [https://ubuntu.com/download](https://releases.ubuntu.com/20.04/)
 
 Click (Download Ubuntu Desktop)
 
